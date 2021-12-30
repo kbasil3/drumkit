@@ -1,2 +1,2 @@
 # drumkit
-This is the finished version of the VS Vanilla Javascript drumkit from forked domain
+This is the finished version of the VS Vanilla Javascript drumkit from 30 day challenge
